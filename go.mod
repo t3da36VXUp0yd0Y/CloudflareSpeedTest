@@ -18,3 +18,7 @@ require (
 
 // Personal fork of XIU2/CloudflareSpeedTest
 // Upstream: https://github.com/XIU2/CloudflareSpeedTest
+//
+// Personal notes:
+//   - Using this to find optimal Cloudflare IPs for my home network
+//   - Tested on Debian 12, works well with default settings
