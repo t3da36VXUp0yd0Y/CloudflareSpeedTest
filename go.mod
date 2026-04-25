@@ -22,3 +22,5 @@ require (
 // Personal notes:
 //   - Using this to find optimal Cloudflare IPs for my home network
 //   - Tested on Debian 12, works well with default settings
+//   - Also tested on Raspberry Pi 4 (arm64), runs fine
+//   - TODO: experiment with lower latency thresholds for my ISP
