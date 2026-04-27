@@ -22,6 +22,8 @@
 
 > [!NOTE]
 > 个人备注：日常使用时建议加上 `-tl 200 -sl 5` 参数，过滤掉延迟过高和速度过低的结果，节省时间。
+>
+> 我个人常用命令：`cfst -tl 150 -sl 8 -dn 10 -o result.csv`（延迟上限150ms，速度下限8MB/s，只保留前10个结果）
 
 ****
 ## \# 快速使用
@@ -52,11 +54,4 @@ scoop install dorado/cloudflare-speedtest
 
 ****
 
-以下命令仅为示例，版本号和文件名请前往 [**Releases**](https://github.com/XIU2/CloudflareSpeedTest/releases) 查看。
-
-``` yaml
-# 如果是第一次使用，则建议创建新文件夹（后续更新时，跳过该步骤）
-
-```
-
-</details>
+以下命令仅为示例，版本号和文件名请前往 [**Releases**](https://github.com/XIU2/Cloudflar
